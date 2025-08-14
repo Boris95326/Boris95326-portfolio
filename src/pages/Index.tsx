@@ -18,7 +18,7 @@ const Index = () => {
       image: "https://media.gettyimages.com/id/2087154330/photo/online-payment-process-using-smartphone-and-credit-card.jpg?s=612x612&w=0&k=20&c=YLIRsl5-mAecm5MMHlUqq8mxH4OK-Oomfe877WQ4z2g=",
       tags: ['React.js', 'Laravel', 'Node.js', 'MySQL', 'AWS', 'Docker', 'Kubernetes'],
       link: "/projects",
-      code: "https://github.com/Auro1995525",
+      code: "https://github.com/Boris95326/",
     },
     {
       title: "MediConnect — Secure Telemedicine",
@@ -26,7 +26,7 @@ const Index = () => {
       image: "https://cdn.pixabay.com/photo/2021/04/08/15/06/doctor-6161898_960_720.jpg",
       tags: ['React.js', 'Laravel', 'WebRTC', 'PostgreSQL', 'OAuth2', 'AWS ECS',],
       link: "/projects",
-      code: "https://github.com/Auro1995525",
+      code: "https://github.com/Boris95326/",
     },
     {
       title: "ShopMaster — Multi-Store E-commerce",
@@ -34,7 +34,7 @@ const Index = () => {
       image: "https://img.freepik.com/free-photo/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg?ga=GA1.1.978980123.1754659168&semt=ais_hybrid&w=740&q=80",
       tags: ['Shopify', 'WooCommerce', 'Laravel', 'Stripe', 'PayPal', 'DHL API', 'Bootstrap'],
       link: "/projects",
-      code: "https://github.com/Auro1995525",
+      code: "https://github.com/Boris95326/",
     },
   ];
 
