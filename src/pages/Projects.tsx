@@ -52,7 +52,7 @@ const Projects = () => {
       description: "Managed the creation and maintenance of 25+ e-commerce sites catering to diverse retail clients, focusing on seamless user experience and fast checkout processes. Integrated payment gateways (Stripe, PayPal) and shipping providers (DHL, GLS), optimized page load speeds with caching (Redis) and CDN (Cloudflare). Migrated legacy systems to modern Laravel architecture, improving site stability and scalability.",
       image: "https://img.freepik.com/free-photo/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg?ga=GA1.1.978980123.1754659168&semt=ais_hybrid&w=740&q=80",
       tags: ['Shopify', 'WooCommerce', 'Laravel', 'PHP', 'MySQL', 'Redis', 'CDN', 'Bootstrap', 'jQuery', 'Vue.js'],
-      code: "https://github.com/Boris95326",
+      code: "https://github.com/Boris95326/ShopMaster — Multi-Store E-commerce",
       category: "Marketing"
     },
     {
@@ -61,7 +61,7 @@ const Projects = () => {
       description: "Developed and integrated machine learning-powered fraud detection tools into financial transaction workflows. Utilized Python ML libraries for anomaly detection, real-time transaction monitoring, and alerting systems. Collaborated with compliance teams to ensure the system met regulatory requirements and reduced chargebacks by 20%.",
       image: "https://financialcrimeacademy.org/wp-content/uploads/2022/05/1-46-1024x576.jpg",
       tags: ['Python', 'Node.js', 'Stripe API', 'MongoDB', 'Docker'],
-      code: "https://github.com/Boris95326",
+      code: "https://github.com/Boris95326/FraudShield — Financial Fraud Detection",
       category: "Security"
     },
     {

@@ -8,12 +8,12 @@ const ContactInfo = () => {
       icon: <Mail className="h-5 w-5 text-brand-purple" />,
       title: "Email",
       details: "u9567476945@gmail.com",
-      link: "mailto:auro1995525@gmail.com",
+      link: "mailto:boris1995525@gmail.com",
     },
     {
       icon: <MapPin className="h-5 w-5 text-brand-purple" />,
       title: "Location",
-      details: "CopehMarii Konopnickiej 3, 00-491 Warsawa, Poland",
+      details: "Marii Konopnickiej 3, 00- 491 Warsawa, Poland",
       link: "https://maps.google.com/?q=Warsawa",
     },
   ];
